@@ -19,4 +19,4 @@ while not ended:
     elif choice == "4":
         ended = True
     else:
-        print("Invalid choice. Please enter 1, 2, or 3.")
+        print("Invalid choice. Please enter 1, 2, 3 or 4.")
